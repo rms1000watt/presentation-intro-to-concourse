@@ -8,4 +8,3 @@
 - github.com/rms1000watt/dummy-projects-integration
 - github.com/rms1000watt/dummy-golang-project
 - github.com/rms1000watt/dummy-nodejs-project
-
