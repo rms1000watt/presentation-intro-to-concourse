@@ -65,3 +65,29 @@ It's a complex universe for DevOps to integrate all the things
 
 Simplicity
 
+---
+<!-- .slide: data-background="img/background-orange-orig.jpg" -->
+
+## Concourse CI
+
+<img src="./img/concourse-web.png" style="background-color:white"/>
+
+Concourse is built with simplicity in mind (https://concourse.ci)
+
+---
+<!-- .slide: data-background="img/background-orange-orig.jpg" -->
+
+## Concourse CI
+
+<img src="./img/concourse-github.png" style="background-color:white"/>
+
+Concourse CI has a good open source community (https://github.com/concourse/concourse)
+
+---
+<!-- .slide: data-background="img/background-orange-orig.jpg" -->
+
+## Concourse CI
+
+<img src="./img/concourse-ci.png" style="background-color:white"/>
+
+Concourse eats their own dog food (https://ci.concourse.ci)

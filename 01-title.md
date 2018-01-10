@@ -1,4 +1,4 @@
-<!-- .slide: data-background="img/background-title-orig.png" -->
+<!-- .slide: data-background="img/background-title-orig.jpg" -->
 
 ## Introduction to Concourse CI
 

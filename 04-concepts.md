@@ -1,52 +1,100 @@
+<!-- .slide: data-background="img/background-lightgreen-orig.jpg" -->
 
-### SMACK
+## Concepts
 
-<!-- .slide: data-background="img/background-orange-orig.jpg" -->
+- Task     <!-- .element: class="fragment" --> 
+- Resource <!-- .element: class="fragment" --> 
+- Job      <!-- .element: class="fragment" --> 
 
-- S park <!-- .element: class="fragment" --> 
-- M esos <!-- .element: class="fragment" --> 
-- A kka <!-- .element: class="fragment" --> 
-- C assandra <!-- .element: class="fragment" --> 
-- K afka <!-- .element: class="fragment" --> 
+
+--- 
+<!-- .slide: data-background="img/background-lightgreen-orig.jpg" -->
+
+## Official Docs
+
+<img src="./img/concourse-concepts.png" style="background-color:white"/>
+
+http://concourse.ci/concepts.html
+
+--- 
+<!-- .slide: data-background="img/background-lightgreen-orig.jpg" -->
+
+## Pipeline
+
+- Collection of Jobs
+- First class citizen
+
+--- 
+<!-- .slide: data-background="img/background-lightgreen-orig.jpg" data-transition="slide-in none" -->
+
+## Pipeline Decomposed
+
+<img src="./img/concourse-dummy-pipeline-1.png" style="background-color:white"/>
+
+--- 
+<!-- .slide: data-background="img/background-lightgreen-orig.jpg" data-transition="none" -->
+
+## Pipeline Decomposed
+
+<img src="./img/concourse-dummy-pipeline-2.png" style="background-color:white"/>
+
+--- 
+<!-- .slide: data-background="img/background-lightgreen-orig.jpg" data-transition="none" -->
+
+## Pipeline Decomposed
+
+<img src="./img/concourse-dummy-pipeline-3.png" style="background-color:white"/>
+
+--- 
+<!-- .slide: data-background="img/background-lightgreen-orig.jpg" data-transition="none" -->
+
+## Pipeline Decomposed
+
+<img src="./img/concourse-dummy-pipeline-4.png" style="background-color:white"/>
 
 ---
+<!-- .slide: data-background="img/background-lightgreen-orig.jpg" -->
 
-### Emerging Architecture 
+## Interfaces
 
-<!-- .slide: data-background="img/background-green-orig.jpg" -->
+Think Golang Interfaces
 
-<img src="./img/fast-data-architecture.png" style="height:600px" />
+<img src="./img/concourse-resource.png" style="background-color:white"/>
 
----
-
-### Zeppelin
-
-<!-- .slide: data-background="img/background-green-orig.jpg" -->
-
-<img src="./img/zeppelin.png" />
+(https://concourse.ci/implementing-resources.html)
 
 ---
+<!-- .slide: data-background="img/background-lightgreen-orig.jpg" -->
 
-### Benefits and downsides of Zeppelin
+## Official Resources
 
-<!-- .slide: data-background="img/background-green-orig.jpg" -->
+<ul style="width:30%; float:center;">
+  <li>git</li>
+  <li>hg</li>
+  <li>time</li>
+  <li>s3</li>
+  <li>archive</li>
+  <li>semver</li>
+  <li>github-release</li>
+</ul>
 
-- &#x1f604; No Jar-Wars  <!-- .element: class="fragment" --> 
-- &#x1f604; Easy analytics  <!-- .element: class="fragment" --> 
-- &#x1f621; New technology  <!-- .element: class="fragment" --> 
+<ul style="width:30%; float:center;">
+  <li>docker-image</li>
+  <li>tracker</li>
+  <li>pool</li>
+  <li>test</li>
+  <li>cf</li>
+  <li>bosh-io-release</li>
+  <li>bosh-io-stemcell</li>
+</ul>
+
+(http://concourse.ci/resource-types.html)
 
 ---
+<!-- .slide: data-background="img/background-lightgreen-orig.jpg" -->
 
-### Traditional Approach
+## Community Resources
 
-<!-- .slide: data-background="img/background-green-orig.jpg" -->
+<img src="./img/community-resources.gif" style="background-color:white"/>
 
-<img src="./img/traditional_approach.png" />
-
----
-
-### DC/OS Approach
-
-<!-- .slide: data-background="img/background-green-orig.jpg" -->
-
-<img src="./img/dcos_approach.png" />
+(http://concourse.ci/resource-types.html)
